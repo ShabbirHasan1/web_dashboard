@@ -6,7 +6,7 @@ cryptography==2.0.3
 Django==1.11.4
 django-mongodb-engine==0.6.0
 django-rest-framework-mongoengine==3.3.1
-djangorestframework==3.6.4
+djangorestframework==3.11.2
 djangotoolbox==1.8.0
 gdax==1.0.6
 idna==2.6
